@@ -18,8 +18,8 @@ Besonderer Fokus lag auf:
 ## Wie man das Projekt ausführt
 1.  **Repository klonen:**
     ```bash
-    git clone https://github.com/DEIN_GITHUB_USERNAME/DEIN_REPO_NAME.git
-    cd DEIN_REPO_NAME
+    git clone https://github.com/boeani05/Konvexer-Fanning-Triangulator.git
+    cd Konvexer-Fanning-Triangulator
     ```
 2.  **Kompilieren (falls noch nicht geschehen, in einer IDE wie IntelliJ/Eclipse ist dies oft automatisch):**
     Navigiere zum `src` Verzeichnis oder dem Verzeichnis, wo deine `.java` Dateien liegen (z.B. `src/main/java`) und kompiliere die Dateien:
